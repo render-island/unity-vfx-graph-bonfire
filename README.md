@@ -1,7 +1,7 @@
 # Unity VFX Graph Bonfire Effect
 This project contains Bonfire VFX asset created with Unity VFX Graph. 
 
-![Bonfire Effect(Public/Images/Bonfire Effect.png)
+![Test Image 4](https://github.com/render-island/unity-vfx-graph-bonfire/blob/main/Public/Images/Bonfire%20Effect.png)
 
 # Video Tutorial 
 https://youtu.be/cOV5aIzw9OU
